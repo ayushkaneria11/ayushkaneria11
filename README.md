@@ -9,7 +9,8 @@
 <a href="https://twitter.com/ayush_kaneria" target="blank"><img align="center" src="./Assets/twitter.svg" alt="ayush_kaneria" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/ayush-kaneria" target="blank"><img align="center" src="./Assets/linkedin.svg" alt="ayush-kaneria" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/ayush_kaneria_11" target="blank"><img align="center" src="./Assets/instagram.svg" alt="ayush_kaneria_11" height="30" width="40" /></a> &nbsp;
-<a href="https://open.spotify.com/user/ix6pom5kyiblewl7yhpbafech" target="blank"><img align="center" src="./Assets/spotify.svg" alt="" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/ix6pom5kyiblewl7yhpbafech" target="blank"><img align="center" src="./Assets/spotify.svg" alt="" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="mailto:kaneriaayush@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="28" width="37" /></a>
 </p></br> 
  &#9; <h2 class="Text" align="left">ICT Junior at Ahmedabad University</h2>
 

@@ -11,7 +11,7 @@
 <a href="https://instagram.com/ayush_kaneria_11" target="blank"><img align="center" src="./Assets/instagram.svg" alt="ayush_kaneria_11" height="30" width="40" /></a> &nbsp;
 <a href="https://open.spotify.com/user/ix6pom5kyiblewl7yhpbafech" target="blank"><img align="center" src="./Assets/spotify.svg" alt="" height="30" width="40" /></a>
 </p></br> 
- &#9; <h2 class="Text" align="left">ICT Junior at Ahmedabad University</h2></br>
+ &#9; <h2 class="Text" align="left">ICT Junior at Ahmedabad University</h2>
 
 - 🌱 I’m currently learning **Django Rest, GraphQL, Software Testing**
 
